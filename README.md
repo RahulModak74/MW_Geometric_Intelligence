@@ -56,7 +56,7 @@ One concrete application is the MW Autonomous Red-Team Orchestrator. Rather than
 
 | Repo | Contents |
 |---|---|
-| [mw-framework](https://github.com/RahulModak74/mw-framework) | Core engine — RF and network security applications |
+| [mw-framework](https://github.com/RahulModak74/mw-framework) | Kerr Spacetime |
 | [QUANTUM_GRAVITY_WITH_MW](https://github.com/RahulModak74/QUANTUM_GRAVITY_WITH_MW) | Quantum gravity application — Kerr waveforms, GR+QM manifold |
 | [Navier-Stokes](https://github.com/RahulModak74/Navier-Stokes) | Fluid dynamics application — Bayesian weak solutions |
 
