@@ -48,7 +48,7 @@ One concrete application is the MW Autonomous Red-Team Orchestrator. Rather than
 | File | Description |
 |---|---|
 | `MW_Theory_of_Geometric_Intelligence.pdf` | Full formal theory — definitions, theorems, proofs, validation table |
-| `MW_Theory_of_Geometric_Intelligence.docx` | Editable Word version |
+
 
 ---
 
