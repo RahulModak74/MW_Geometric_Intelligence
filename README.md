@@ -9,7 +9,7 @@ Linkedin Article: https://www.linkedin.com/pulse/339-years-later-physics-ai-path
 
 What are log files:
 
-They are first proof that 1000 Quabit Quantum Computing is possible on a laptop for sparse hilbert space.. And scalable..A global benchmark shattering result!
+They are first proof that 1000 Qubit Quantum Computing is possible on a laptop for sparse hilbert space.. And scalable..A global benchmark shattering result!
 
 ## What This Is
 
