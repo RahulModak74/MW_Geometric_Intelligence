@@ -5,6 +5,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19304813.svg)](https://doi.org/10.5281/zenodo.19304813)
 
 ---
+Linkedin Article: https://www.linkedin.com/pulse/339-years-later-physics-ai-path-alternative-solving-pdes-rahul-modak-ewh8f
 
 ## What This Is
 
