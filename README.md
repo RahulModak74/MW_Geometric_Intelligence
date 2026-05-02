@@ -8,7 +8,7 @@
 
 ## What This Is
 
-The Modak-Walawalkar (MW) Framework is a physics-first foundational model for inference on learned Riemannian manifolds. Instead of deriving and solving PDEs, it encodes physical laws as Bayesian priors, trains a Variational Autoencoder to learn the curved surface of all physically possible states, and answers queries in a single O(n) forward pass — reducing the computational state space from O(n^k) to O(n), a ~10⁶× reduction for classical PDE problems (k=3).
+The Modak-Walawalkar (MW) Framework is a physics-first foundational model for inference on learned Riemannian manifolds. Instead of deriving and solving PDEs as Newton Lagrangian approach , it encodes physical laws as Bayesian priors, trains a Variational Autoencoder to learn the curved surface of all physically possible states, and answers queries in a single O(n) forward pass — reducing the computational state space from O(n^k) to O(n), a ~10⁶× reduction for classical PDE problems (k=3).
 
 This repository contains the **formal mathematical theory** (Version 1.0, Newton-Lagrangian single-manifold regime): definitions, theorems, complexity analysis, and cross-domain empirical validation. The applied quantum gravity preprint — one instantiation of this theory — is at [DOI: 10.5281/zenodo.19304813](https://doi.org/10.5281/zenodo.19304813).
 
