@@ -5,7 +5,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19304813.svg)](https://doi.org/10.5281/zenodo.19304813)
 
 ---
-Linkedin Article: https://www.linkedin.com/pulse/339-years-later-physics-ai-path-alternative-solving-pdes-rahul-modak-ewh8f
+Linkedin Article Introduction to MW: https://www.linkedin.com/pulse/339-years-later-physics-ai-path-alternative-solving-pdes-rahul-modak-ewh8f
+
+LinkedIn Article: 1000 Qubits Quantum simulation on Laptop: https://www.linkedin.com/pulse/mw-meets-quantum-computing-1000-qubits-6-gb-ram-zero-1026-rahul-modak-oenyf
 
 What are log files:
 
