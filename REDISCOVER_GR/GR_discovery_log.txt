@@ -1,0 +1,19 @@
+python3 discover_gr_1915.py 
+Mercury observed excess: 5.0209e-07 rad/orbit
+
+======================================================================
+GR PERIHELION DISCOVERY (circa 1915)
+======================================================================
+Loaded classical VAE (no SR/GR knowledge)
+Best candidate R² = 0.9780, attempting to fit free coefficient
+
+======================================================================
+DISCOVERED LAW
+======================================================================
+Equation: 6*G*M*pi/(a*c**2*(1 - e**2))
+R²: 0.977983
+Uncertainty: 0.0220
+
+Einstein's GR formula: Δφ = 6πGM / (c² a (1-e²))
+
+✓ Plot saved to gr_discovery.png
