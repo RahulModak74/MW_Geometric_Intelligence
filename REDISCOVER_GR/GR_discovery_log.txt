@@ -1,3 +1,6 @@
+This is v1.0 of the log ..Pl refer GR_Discover_full_log.md for full log with improved v2 version.
+
+
 python3 discover_gr_1915.py 
 Mercury observed excess: 5.0209e-07 rad/orbit
 
