@@ -119,7 +119,7 @@ For these problems, the MW emulator offers:
 |---|---|---|---|
 | Hilbert space | Physical | Explicit 2ⁿ vector | Manifold only |
 | Memory scaling | N/A (hardware) | O(2ⁿ) | O(n²) |
-| Max qubits (2026) | ~100 noisy / ~50 logical | ~50 | Unlimited* |
+| Max qubits (2026) | ~100 noisy / ~50 logical | ~50 | 1000 tested* |
 | Gate error | 0.1–1% | Zero | Zero |
 | Arbitrary circuits | Yes | Yes (n≤50) | No |
 | Physical circuits | Yes | Yes (n≤50) | Yes |
