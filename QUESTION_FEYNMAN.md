@@ -139,13 +139,13 @@ The answer, for physically realisable systems, is no. Physics gives you sparse, 
 
 MW is that scrutiny, now running as 2756 MB on a GPU laptop in Thane — computing 1000-qubit QFT entanglement profiles with 96% Bayesian calibration, zero gate error, at room temperature.
 
-The castles are not being attacked. The ground they stand on is being examined — carefully, with code, with Bayesian uncertainty, with reproducible results. From a small city in India, outside any institution, open-sourced, pip-installable.
+The castles are not being attacked. The ground they stand on is being examined — carefully, with code, with Bayesian uncertainty, with reproducible results. From a  city in India, outside any institution, open-sourced, pip-installable.
 
 ---
 
-**Rahul Modak & Dr. Rahul Walawalkar**
+
 Modak-Walawalkar (MW) Framework | Bayesian Cybersecurity Pvt Ltd, Thane / Mumbai
-GitHub: https://lnkd.in/dUz9pkG3
+
 Quantum Gravity preprint: DOI 10.5281/zenodo.19304813
 
 #MWFramework #BayesianInference #MonteCarlo #QuantumComputing #DifferentialGeometry #BayesianCybersecurity #RiemannianGeometry #ComputationalMathematics
