@@ -5,8 +5,8 @@
 Bayesian Cybersecurity Pvt Ltd, Thane, India  
 Date: June 2, 2026  
 Hardware: ASUS LOQ 15IRH8 laptop, NVIDIA GPU (8GB VRAM), Ubuntu Linux  
-Framework DOI: [10.5281/zenodo.15304813](https://zenodo.org/record/15304813)  
-GitHub: [github.com/RahulModak74/QUANTUM_GRAVITY_WITH_MW](https://github.com/RahulModak74/QUANTUM_GRAVITY_WITH_MW)
+Framework DOI: [10.5281/zenodo.15304813](https://zenodo.org/record/19304813)  
+GitHub: [github.com/RahulModak74/QUANTUM_GRAVITY_WITH_MW](https://github.com/RahulModak74/MW_Geometric_Intelligence)
 
 ---
 
