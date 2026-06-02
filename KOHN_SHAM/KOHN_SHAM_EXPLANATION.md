@@ -1,4 +1,5 @@
-# Kohn-Sham Orbital Eigenvalue Prediction for LiFePO₄
+# MW works for Sparse Hilbert space
+## Kohn-Sham Orbital Eigenvalue Prediction for LiFePO₄
 ## A Classical Solution Beyond the Reach of IBM, Google, and All Existing Quantum Simulators
 
 **Modak-Walawalkar (MW) Framework**  
