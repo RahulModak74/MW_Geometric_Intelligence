@@ -3,14 +3,18 @@
 
 
 
+
+
+
 python3 ks_mw_eigensolver_v2.py --system LiFePO4 --epochs 500 --scf 12
-======================================================================
+
   MW KS Eigensolver v2 — LiFePO₄ Fe-O cluster proxy, ROHF (Fe 3d / O 2p valence)
   Modak-Walawalkar Framework | Bayesian Cybersecurity Pvt Ltd
   Qiskit-equivalent qubits: 400  (Qiskit Aer wall: ~36)
-======================================================================
+
 
 [1/6] Building reference via PySCF: LiFePO4
+
   PySCF ROHF: converged=False  n_basis=38  n_occ=30
   ✅ Reference: n_basis=38  n_occupied=30  n_valence=6
   Valence eigenvalues (Ha):
