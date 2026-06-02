@@ -1,4 +1,7 @@
 
+# MW works for Sparse Hilbert space
+
+
 
 python3 ks_mw_eigensolver_v2.py --system LiFePO4 --epochs 500 --scf 12
 ======================================================================
