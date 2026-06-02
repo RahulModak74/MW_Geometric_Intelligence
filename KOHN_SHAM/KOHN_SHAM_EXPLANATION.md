@@ -220,7 +220,7 @@ Quantum hardware must build the full 2^400-dimensional Hilbert space. MW never d
 
 ## 8. Reproducibility
 
-**Complete reproduction:**
+**Complete reproduction:** (NOT OPENSOURCE)
 
 ```bash
 # Install dependencies
