@@ -34,7 +34,7 @@ The claim must be split into two layers with very different originality status. 
 | **Conceptual / paradigmatic** | *Think manifolds, not PDEs.* Stop discretising-and-solving the differential equation; instead learn the manifold of physically-admissible states and do Bayesian inference on it. | **Foundational in type** — a transferable computational lens, in the precise Kuhnian sense of a paradigm. |
 | **Operational / methodological** | Bayesian priors *cut the ambient hypercube* down to the low-dimensional physically-realizable submanifold; then Riemannian / fibre-bundle *stitching* (the algebra below) runs on that reduced space. | **A novel synthesis** — the components have named antecedents; the unifying algebra and cross-domain transfer are the new contribution. |
 
-**Name the antecedents yourself, before a referee does:**
+**Terms we use and what they mean:**
 
 - *Stitching* → tensor networks / matrix-product states already "stitch local state-spaces via entanglement bonds."
 - *Learning the physical manifold generatively* → Boltzmann generators, equivariant normalizing flows.
