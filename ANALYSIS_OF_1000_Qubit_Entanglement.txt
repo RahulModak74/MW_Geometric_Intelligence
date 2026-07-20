@@ -1,4 +1,5 @@
 What a 1,000‑Qubit Entanglement Profile Actually Tells Us
+
 ### *Empirical evidence that the physically‑relevant state space is a thin submanifold of Hilbert space*
 
 > *From the run log of `quantum_fourier_manifold_e2e_v6.py --qubits 1000 --quick`, Modak–Walawalkar Framework, 2026.*
