@@ -6,7 +6,7 @@
 
 ## 1. The one-sentence thesis
 
-The MW framework proposes that the **law** in a physical domain can be represented as a single **geometric object**: a learned Riemannian manifold of physically-admissible states, equipped with one distance function that serves simultaneously as (a) the physical model and (b) the risk / validity measure. The same construction — the same small algebra of operations — is instantiated across quantum chemistry, qubit systems, fluid dynamics, climate onset, battery safety, and (as a stress test) quantum gravity, by changing only the physics priors.
+The MW framework proposes that the **law** in a physical domain can be represented as a single **geometric object**: a learned Riemannian manifold of physically-admissible states, equipped with one distance function that serves simultaneously as (a) the physical model and (b) the risk / validity measure. The same construction — the same small algebra of operations — is instantiated across quantum chemistry, qubit systems, fluid dynamics,  battery safety, and (as a stress test) quantum gravity, by changing only the physics priors.
 
 This is a **reframe**, not a new mathematical primitive. Its lineage and its limits are stated openly below, because doing so is what makes the contribution defensible rather than fragile.
 
@@ -115,7 +115,6 @@ MW operates in two modes, and every validated domain instantiates both, with the
 | **Quantum chemistry** | Manifold captures the potential-energy surface / orbital manifold; energy & eigenvalue inference | Structures the manifold is unsure about (high σ) | `flag_vasp` — σ above threshold ⇒ "manifold doesn't trust itself here, defer to VASP" |
 | **Qubit / QFT** | Basis and sparse superpositions on the Bloch fibre bundle; phase prediction | Haar-random states (fill full Hilbert space, no manifold) | Haar states score max MW distance; separation from normal states is clean (100% detection at ~1–2% FPR in the 1000-qubit run) |
 | **Navier–Stokes** | Laminar / coherent flow on the learned flow manifold | Vortex cores, discontinuities, turbulence — the no-smooth-solution regime | `is_discontinuous` flag; singularities *located* rather than smoothed over |
-| **Monsoon onset** | Pre-onset climatology = the normal manifold | Onset = phase transition = departure from that manifold | onset *is* the anomaly crossing; posterior returns the transition point plus a credible interval |
 | **Battery (BESS)** | Normal protection manifold; BMS behaves | A silent protection failure / cyber-attack | the attack *is* the mode-B departure; detecting the quietly-disabled protection is the whole value |
 
 Read this structurally. Mode A is "the physics is regular, the manifold holds, interpolate/predict on it." Mode B is "the physics has left the manifold — and the correct response is not to fake a solution but to **detect, locate, and put an uncertainty bar on the departure.**"
