@@ -37,7 +37,7 @@ This repository contains the **formal mathematical theory** (Version 1.0, Newton
 |---|---|---|---|
 | Battery electrochemistry (BayesianBESS) | 16 | 16 | MAE=0.008; commercial product deployed |
 | Kerr spacetime / gravitational waves | 4 | 8 | 98.5% LIGO waveform match; ~10⁶× state-space reduction |
-| Navier-Stokes fluid dynamics | 10 | 8 | Vortex singularities learned without mesh |
+
 | RF spectrum cybersecurity | 25 | 16 | Live GNSS suppression event detected, March 2026 |
 | Network intrusion detection | 57 | 12 | AUC=0.89 on unseen attacks |
 | Browser behavioural security | 17 | 12 | Real-time deployment |
@@ -66,7 +66,7 @@ One concrete application is the MW Autonomous Red-Team Orchestrator. Rather than
 |---|---|
 | [mw-framework](https://github.com/RahulModak74/mw-framework) | Kerr Spacetime |
 | [QUANTUM_GRAVITY_WITH_MW](https://github.com/RahulModak74/QUANTUM_GRAVITY_WITH_MW) | Quantum gravity application — Kerr waveforms, GR+QM manifold |
-| [Navier-Stokes](https://github.com/RahulModak74/Navier-Stokes) | Fluid dynamics application — Bayesian weak solutions |
+
 
 ---
 
