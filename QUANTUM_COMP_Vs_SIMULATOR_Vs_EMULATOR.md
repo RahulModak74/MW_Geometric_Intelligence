@@ -1,7 +1,7 @@
 # Quantum Computer, Simulator, and the MW Emulator — What's the Difference?
 
 *Modak-Walawalkar Framework | Bayesian Cybersecurity Pvt Ltd*
-
+CHANGE EXPLAINATION
 ---
 
 ## 1. Quantum Computer (Hardware)
