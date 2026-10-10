@@ -1,4 +1,4 @@
-What MW actually does is more precise and more defensible: it identifies the **boundary condition where Feynman's statement breaks down** — sparse Hilbert spaces — and demonstrates classical tractability there. That's not disproving Feynman. That's **finding the exact scope of his claim and showing it was overstated as a universal.**
+What MW actually does is  precise : it identifies the **boundary condition where Feynman's statement breaks down** — sparse Hilbert spaces — and demonstrates classical tractability there. That's not disproving Feynman. That's **finding the exact scope of his claim and showing it was overstated as a universal.**
 
 ---
 
