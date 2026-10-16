@@ -3,6 +3,9 @@ BATTERY_RIEMANNIAN_LORENTZIAN.py
 ================================
 A working tutorial on two geometries for battery health modelling.
 
+This is a toy example with pytorch only.. Pl refer https://github.com/RahulModak74/QUANTUM_GRAVITY_WITH_MW 
+for mode code sample
+
 THE ONE IDEA
 ------------
 Both models are the same VAE. Same data, same decoder, same metric net.
@@ -61,6 +64,7 @@ import sys
 import time
 import numpy as np
 import torch
+import pyro
 import torch.nn as nn
 import torch.nn.functional as F
 
