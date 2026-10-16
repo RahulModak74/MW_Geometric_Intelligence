@@ -3,8 +3,7 @@ BATTERY_RIEMANNIAN_LORENTZIAN.py
 ================================
 A working tutorial on two geometries for battery health modelling.
 
-This is a toy example with pytorch only.. Pl refer https://github.com/RahulModak74/QUANTUM_GRAVITY_WITH_MW 
-for quantum gravity stress test sample code.
+
 
 THE ONE IDEA
 ------------
