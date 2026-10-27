@@ -2,7 +2,8 @@
 BATTERY_RIEMANNIAN_LORENTZIAN.py
 ================================
 A working tutorial on two geometries for battery health modelling.
-
+# Tutorial sketch: the metric net is untrained and c_fade calibration is illustrative.
+# Results here do not reflect a tuned implementation; see the MW framework for the full approach.
 
 
 THE ONE IDEA
